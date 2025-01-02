@@ -1,4 +1,4 @@
-http://example.com/about/index.html
 http://example.com/2025/01/02/happy-new-year/
+http://example.com/about/index.html
 http://example.com/1970/01/01/hello-world/
 http://example.com/
