@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://froclock.netlify.app/%E6%AC%A2%E8%BF%8E.html</loc>
+    <loc>https://froclock.netlify.app/2025/01/02/happy-new-year/</loc>
     
     <lastmod>2025-01-03</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://froclock.netlify.app/2025/01/02/hello-world/</loc>
+    <loc>https://froclock.netlify.app/%E6%AC%A2%E8%BF%8E.html</loc>
     
     <lastmod>2025-01-03</lastmod>
     
@@ -29,9 +29,9 @@
   </url>
   
   <url>
-    <loc>https://froclock.netlify.app/2025/01/02/happy-new-year/</loc>
+    <loc>https://froclock.netlify.app/2025/01/02/hello-world/</loc>
     
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2025-01-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
