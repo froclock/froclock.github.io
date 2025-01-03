@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Froclock</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://froclock.netlify.app/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://froclock.netlify.app/"/>
   <updated>2025-01-03T02:27:08.790Z</updated>
-  <id>http://example.com/</id>
+  <id>https://froclock.netlify.app/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>枨秸</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>来自obsidian</title>
-    <link href="http://example.com/2025/01/03/%E6%9D%A5%E8%87%AAobsidian/"/>
-    <id>http://example.com/2025/01/03/%E6%9D%A5%E8%87%AAobsidian/</id>
+    <link href="https://froclock.netlify.app/2025/01/03/%E6%9D%A5%E8%87%AAobsidian/"/>
+    <id>https://froclock.netlify.app/2025/01/03/%E6%9D%A5%E8%87%AAobsidian/</id>
     <published>2025-01-03T02:16:45.000Z</published>
     <updated>2025-01-03T02:27:08.790Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>happy-new-year</title>
-    <link href="http://example.com/2025/01/02/happy-new-year/"/>
-    <id>http://example.com/2025/01/02/happy-new-year/</id>
+    <link href="https://froclock.netlify.app/2025/01/02/happy-new-year/"/>
+    <id>https://froclock.netlify.app/2025/01/02/happy-new-year/</id>
     <published>2025-01-02T14:39:30.000Z</published>
     <updated>2025-01-02T15:19:28.629Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/01/02/hello-world/"/>
-    <id>http://example.com/2025/01/02/hello-world/</id>
+    <link href="https://froclock.netlify.app/2025/01/02/hello-world/"/>
+    <id>https://froclock.netlify.app/2025/01/02/hello-world/</id>
     <published>2025-01-02T14:20:15.000Z</published>
     <updated>2025-01-03T02:27:08.779Z</updated>
     
