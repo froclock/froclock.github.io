@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Froclock</title>
   
-  
+  <subtitle>枨秸的个人博客</subtitle>
   <link href="https://froclock.netlify.app/atom.xml" rel="self"/>
   
   <link href="https://froclock.netlify.app/"/>
