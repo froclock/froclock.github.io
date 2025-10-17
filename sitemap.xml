@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://froclock.netlify.app/2025/10/17/71f22139d892/</loc>
+    
+    <lastmod>2025-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://froclock.netlify.app/2025/09/20/e39e516c27bc/</loc>
     
     <lastmod>2025-09-20</lastmod>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://froclock.netlify.app/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,21 +111,21 @@
   
   <url>
     <loc>https://froclock.netlify.app/tags/%E5%8C%BB%E8%8D%AF/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://froclock.netlify.app/tags/%E6%8A%95%E8%B5%84/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://froclock.netlify.app/tags/%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
