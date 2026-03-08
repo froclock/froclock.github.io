@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>happy-new-year</title>
-    <url>/2025/01/02/53363b58e083/</url>
-    <content><![CDATA[<p>这是我的第一篇文章</p>
-<p>新年快乐！</p>
-<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/IMG_20250102_230821.jpg?sign=YM5IGGK3gcnHj2ZM9Mq1iJcq50-MsiGVywU5IuAqnog=:0" alt="IMG_20250102_230821.jpg"></p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>新年</tag>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2025/01/02/d99b95146e47/</url>
     <content><![CDATA[<p><strong>这是Hexo初始化后的默认文档，特此保留。</strong></p>
@@ -39,6 +24,21 @@
       <tags>
         <tag>Hexo</tag>
         <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>happy-new-year</title>
+    <url>/2025/01/02/53363b58e083/</url>
+    <content><![CDATA[<p>这是我的第一篇文章</p>
+<p>新年快乐！</p>
+<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/IMG_20250102_230821.jpg?sign=YM5IGGK3gcnHj2ZM9Mq1iJcq50-MsiGVywU5IuAqnog=:0" alt="IMG_20250102_230821.jpg"></p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>新年</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -114,6 +114,28 @@
       </tags>
   </entry>
   <entry>
+    <title>近期投资心得</title>
+    <url>/2025/07/10/9f87d18c3df6/</url>
+    <content><![CDATA[<p>本科的时候选修了金融学，虽然没认真学太多知识，但至少给了我去尝试交易的勇气。</p>
+<p>从前年开始持有过小额小米的股票，等到小米SU7发布之后，惊讶的发现这是真能赚到，那次清仓之后盈利了一万多。从此开始了更大胆的尝试。</p>
+<p>最近频繁交易了稳定币、AMD、港股打新等，目前盈利状况一般，也可能是还未等到时机，暂且总结一些心得：</p>
+<ol>
+<li>MACD是很有效的指标，别的都不看也必须看MACD</li>
+<li>补仓要有间隔，比如每个交易日只开两单、差价不小于2.5%等</li>
+<li>不要追高加仓，投资机会有的是，不用在意这一次投资的盈利不够多</li>
+<li>把控整体风险，风险大的短线交易只能轻仓</li>
+<li>开盘后前半小时至一小时的交易基本可以概括全天的市场情绪，随后不再进行买入操作，直到尾盘</li>
+</ol>
+]]></content>
+      <categories>
+        <category>投资</category>
+      </categories>
+      <tags>
+        <tag>投资</tag>
+        <tag>交易复盘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杭青市地名志</title>
     <url>/2025/02/10/58be49a5ad7a/</url>
     <content><![CDATA[<h1 id="行政区划"><a href="#行政区划" class="headerlink" title="行政区划"></a>行政区划</h1><ol>
@@ -152,6 +174,21 @@
   </entry>
   <entry>
     <title>近期投资心得</title>
+    <url>/2025/09/17/20386b7fffa8/</url>
+    <content><![CDATA[<p>小米，风险回报比高于一比一，下方止损点位53.5左右。考虑买入牛证<a href="https://hk.warrants.com/tc/cbbc/indicator/code/66550">66550</a>，到期日<br>2026-02-27，收回价51。</p>
+<p>META关注，今晚回调可以进场。</p>
+<p>甲骨文短期做空，暂未走出下跌趋势，股东高位套现以获利收购Tiktoc。近期频频开盘拉高出货，随后砸盘，如果机会合适可以择机做空。周五公布会谈细节，不排除中方加码，如果周五公布前低于303跌势依然明确，可以等协议细节公布。</p>
+]]></content>
+      <categories>
+        <category>投资</category>
+      </categories>
+      <tags>
+        <tag>投资</tag>
+        <tag>交易复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>近期投资心得</title>
     <url>/2025/09/20/e39e516c27bc/</url>
     <content><![CDATA[<p>最近两次在低点被洗出，场景非常相似，所以特意写一篇做反思。</p>
 <p>首先是蓝思科技，曾持有1400股头寸，但在除权日前一天在低点竟抛售。随后第二天剧烈上涨，如果没有卖出，则不超过18小时就能抹平所有亏损。</p>
@@ -168,43 +205,6 @@
         <tag>投资</tag>
         <tag>交易复盘</tag>
         <tag>风险管理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>近期投资心得</title>
-    <url>/2025/09/17/20386b7fffa8/</url>
-    <content><![CDATA[<p>小米，风险回报比高于一比一，下方止损点位53.5左右。考虑买入牛证<a href="https://hk.warrants.com/tc/cbbc/indicator/code/66550">66550</a>，到期日<br>2026-02-27，收回价51。</p>
-<p>META关注，今晚回调可以进场。</p>
-<p>甲骨文短期做空，暂未走出下跌趋势，股东高位套现以获利收购Tiktoc。近期频频开盘拉高出货，随后砸盘，如果机会合适可以择机做空。周五公布会谈细节，不排除中方加码，如果周五公布前低于303跌势依然明确，可以等协议细节公布。</p>
-]]></content>
-      <categories>
-        <category>投资</category>
-      </categories>
-      <tags>
-        <tag>投资</tag>
-        <tag>交易复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>近期投资心得</title>
-    <url>/2025/07/10/9f87d18c3df6/</url>
-    <content><![CDATA[<p>本科的时候选修了金融学，虽然没认真学太多知识，但至少给了我去尝试交易的勇气。</p>
-<p>从前年开始持有过小额小米的股票，等到小米SU7发布之后，惊讶的发现这是真能赚到，那次清仓之后盈利了一万多。从此开始了更大胆的尝试。</p>
-<p>最近频繁交易了稳定币、AMD、港股打新等，目前盈利状况一般，也可能是还未等到时机，暂且总结一些心得：</p>
-<ol>
-<li>MACD是很有效的指标，别的都不看也必须看MACD</li>
-<li>补仓要有间隔，比如每个交易日只开两单、差价不小于2.5%等</li>
-<li>不要追高加仓，投资机会有的是，不用在意这一次投资的盈利不够多</li>
-<li>把控整体风险，风险大的短线交易只能轻仓</li>
-<li>开盘后前半小时至一小时的交易基本可以概括全天的市场情绪，随后不再进行买入操作，直到尾盘</li>
-</ol>
-]]></content>
-      <categories>
-        <category>投资</category>
-      </categories>
-      <tags>
-        <tag>投资</tag>
-        <tag>交易复盘</tag>
       </tags>
   </entry>
   <entry>
