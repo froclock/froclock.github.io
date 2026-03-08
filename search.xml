@@ -1,32 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/01/02/d99b95146e47/</url>
-    <content><![CDATA[<p><strong>这是Hexo初始化后的默认文档，特此保留。</strong></p>
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></tbody></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>博客搭建</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>happy-new-year</title>
     <url>/2025/01/02/53363b58e083/</url>
     <content><![CDATA[<p>这是我的第一篇文章</p>
@@ -79,6 +53,67 @@
       </tags>
   </entry>
   <entry>
+    <title>口腔溃疡用药记录</title>
+    <url>/2025/03/31/2de5a069974c/</url>
+    <content><![CDATA[<p>近期又经历一次严重的口腔溃疡，连带引起了头疼、淋巴发炎、乳蛾、左鼻痤疮；乍暖还寒时体感温度低、大风频起，住处寒冷；恰逢计算机二级考试，心理压力较大，工作琐事繁多。前后多次用药，尽快控制住了病情。</p>
+<ol>
+<li>复方氯已定地塞米松膜<br>药效较之前有所减弱，但麻醉效果明显，能够减轻痛苦，可以在饭前和洗漱前使用。</li>
+<li>康复新液<br>药效不明，可能促进了溃疡恢复。建议使用滴管滴至患处，适当含漱后吐掉。</li>
+<li>芎菊上清丸<br>治疗头疼药效显著。建议在头疼初起时立即服用，以免延误病情。</li>
+<li>连翘败毒丸<br>治疗溃疡和痤疮，憎寒发热。</li>
+<li>小柴胡颗粒<br>治疗亡阳证，时冷时热、畏寒。</li>
+<li>复方氯已定含漱液<br>含甲硝唑，适用于患处消毒。</li>
+</ol>
+]]></content>
+      <categories>
+        <category>健康</category>
+      </categories>
+      <tags>
+        <tag>健康</tag>
+        <tag>用药记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2025/01/02/d99b95146e47/</url>
+    <content><![CDATA[<p><strong>这是Hexo初始化后的默认文档，特此保留。</strong></p>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>来自obsidian</title>
+    <url>/2025/01/03/f47dcaef4e4c/</url>
+    <content><![CDATA[<p>测试编辑属性</p>
+<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/02/19/15-21-16-af02561c34091eba6f49fe4b436e434c-DSC_0510_1-32f296.JPG?sign=dnH9aONn7KKuXcoBsZ38cDwrS-lJVCXwtUKKZZTXoYg=:0" alt="DSC_0510_1.JPG"></p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>Obsidian</tag>
+        <tag>博客同步</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>近期投资心得</title>
     <url>/2025/07/10/9f87d18c3df6/</url>
     <content><![CDATA[<p>本科的时候选修了金融学，虽然没认真学太多知识，但至少给了我去尝试交易的勇气。</p>
@@ -101,41 +136,6 @@
       </tags>
   </entry>
   <entry>
-    <title>口腔溃疡用药记录</title>
-    <url>/2025/03/31/2de5a069974c/</url>
-    <content><![CDATA[<p>近期又经历一次严重的口腔溃疡，连带引起了头疼、淋巴发炎、乳蛾、左鼻痤疮；乍暖还寒时体感温度低、大风频起，住处寒冷；恰逢计算机二级考试，心理压力较大，工作琐事繁多。前后多次用药，尽快控制住了病情。</p>
-<ol>
-<li>复方氯已定地塞米松膜<br>药效较之前有所减弱，但麻醉效果明显，能够减轻痛苦，可以在饭前和洗漱前使用。</li>
-<li>康复新液<br>药效不明，可能促进了溃疡恢复。建议使用滴管滴至患处，适当含漱后吐掉。</li>
-<li>芎菊上清丸<br>治疗头疼药效显著。建议在头疼初起时立即服用，以免延误病情。</li>
-<li>连翘败毒丸<br>治疗溃疡和痤疮，憎寒发热。</li>
-<li>小柴胡颗粒<br>治疗亡阳证，时冷时热、畏寒。</li>
-<li>复方氯已定含漱液<br>含甲硝唑，适用于患处消毒。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>健康</category>
-      </categories>
-      <tags>
-        <tag>健康</tag>
-        <tag>用药记录</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>来自obsidian</title>
-    <url>/2025/01/03/f47dcaef4e4c/</url>
-    <content><![CDATA[<p>测试编辑属性</p>
-<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/02/19/15-21-16-af02561c34091eba6f49fe4b436e434c-DSC_0510_1-32f296.JPG?sign=dnH9aONn7KKuXcoBsZ38cDwrS-lJVCXwtUKKZZTXoYg=:0" alt="DSC_0510_1.JPG"></p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>Obsidian</tag>
-        <tag>博客同步</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>近期投资心得</title>
     <url>/2025/09/17/20386b7fffa8/</url>
     <content><![CDATA[<p>小米，风险回报比高于一比一，下方止损点位53.5左右。考虑买入牛证<a href="https://hk.warrants.com/tc/cbbc/indicator/code/66550">66550</a>，到期日<br>2026-02-27，收回价51。</p>
@@ -148,6 +148,26 @@
       <tags>
         <tag>投资</tag>
         <tag>交易复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>近期投资心得</title>
+    <url>/2025/09/20/e39e516c27bc/</url>
+    <content><![CDATA[<p>最近两次在低点被洗出，场景非常相似，所以特意写一篇做反思。</p>
+<p>首先是蓝思科技，曾持有1400股头寸，但在除权日前一天在低点竟抛售。随后第二天剧烈上涨，如果没有卖出，则不超过18小时就能抹平所有亏损。</p>
+<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/09/20/11-36-14-0e158687fc63f3c08443c136792d963a-b275f3.png?sign=GQCxlKUn9uqjTJ8eePI-4S8ff0sAgeuC6Uj-Tmb1M4E=:0"></p>
+<p>另一次是小米，一觉醒来看到消息说找回1/3的小米SU7标准版，以为是遭遇了黑天鹅，火速卖出。但不久发现其实只是OTA升级，或者管理层用OTA升级盖过了问题召回的消息，总之不是黑天鹅，而是最该买入的点位，我反之选择了卖出。</p>
+<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/09/20/11-42-37-e70a92a42cd5daac6147d886243d1462-8c94ba.png?sign=mwbSs8RVJApqHOQbYDripPRVFpfU80zSxTcI0X9s4ms=:0"></p>
+<p>回顾来看，当时的思路主要是止损。但对于蓝思科技而言，基本面很好，前两年处于低估阶段，近来不仅守住消费电子的订单，还在扩大国产电动汽车玻璃的订单，护城河很稳。很难回撤太多。</p>
+<p>至于小米，主要是对信息的鉴别没有很清醒，反而急于止损，没有意识到是媒体营造的假消息。</p>
+]]></content>
+      <categories>
+        <category>投资</category>
+      </categories>
+      <tags>
+        <tag>投资</tag>
+        <tag>交易复盘</tag>
+        <tag>风险管理</tag>
       </tags>
   </entry>
   <entry>
@@ -185,26 +205,6 @@
         <tag>都市天际线</tag>
         <tag>城市设定</tag>
         <tag>世界观</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>近期投资心得</title>
-    <url>/2025/09/20/e39e516c27bc/</url>
-    <content><![CDATA[<p>最近两次在低点被洗出，场景非常相似，所以特意写一篇做反思。</p>
-<p>首先是蓝思科技，曾持有1400股头寸，但在除权日前一天在低点竟抛售。随后第二天剧烈上涨，如果没有卖出，则不超过18小时就能抹平所有亏损。</p>
-<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/09/20/11-36-14-0e158687fc63f3c08443c136792d963a-b275f3.png?sign=GQCxlKUn9uqjTJ8eePI-4S8ff0sAgeuC6Uj-Tmb1M4E=:0"></p>
-<p>另一次是小米，一觉醒来看到消息说找回1/3的小米SU7标准版，以为是遭遇了黑天鹅，火速卖出。但不久发现其实只是OTA升级，或者管理层用OTA升级盖过了问题召回的消息，总之不是黑天鹅，而是最该买入的点位，我反之选择了卖出。</p>
-<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/09/20/11-42-37-e70a92a42cd5daac6147d886243d1462-8c94ba.png?sign=mwbSs8RVJApqHOQbYDripPRVFpfU80zSxTcI0X9s4ms=:0"></p>
-<p>回顾来看，当时的思路主要是止损。但对于蓝思科技而言，基本面很好，前两年处于低估阶段，近来不仅守住消费电子的订单，还在扩大国产电动汽车玻璃的订单，护城河很稳。很难回撤太多。</p>
-<p>至于小米，主要是对信息的鉴别没有很清醒，反而急于止损，没有意识到是媒体营造的假消息。</p>
-]]></content>
-      <categories>
-        <category>投资</category>
-      </categories>
-      <tags>
-        <tag>投资</tag>
-        <tag>交易复盘</tag>
-        <tag>风险管理</tag>
       </tags>
   </entry>
   <entry>
