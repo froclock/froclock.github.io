@@ -77,20 +77,6 @@
       </tags>
   </entry>
   <entry>
-    <title>来自obsidian</title>
-    <url>/2025/01/03/f47dcaef4e4c/</url>
-    <content><![CDATA[<p>测试编辑属性</p>
-<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/02/19/15-21-16-af02561c34091eba6f49fe4b436e434c-DSC_0510_1-32f296.JPG?sign=dnH9aONn7KKuXcoBsZ38cDwrS-lJVCXwtUKKZZTXoYg=:0" alt="DSC_0510_1.JPG"></p>
-]]></content>
-      <categories>
-        <category>博客</category>
-      </categories>
-      <tags>
-        <tag>Obsidian</tag>
-        <tag>博客同步</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>口腔溃疡用药记录</title>
     <url>/2025/03/31/2de5a069974c/</url>
     <content><![CDATA[<p>近期又经历一次严重的口腔溃疡，连带引起了头疼、淋巴发炎、乳蛾、左鼻痤疮；乍暖还寒时体感温度低、大风频起，住处寒冷；恰逢计算机二级考试，心理压力较大，工作琐事繁多。前后多次用药，尽快控制住了病情。</p>
@@ -109,6 +95,75 @@
       <tags>
         <tag>健康</tag>
         <tag>用药记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>微信不是新渠道，而是 AI 助手的新默认入口</title>
+    <url>/2026/03/24/edf43e588bcd/</url>
+    <content><![CDATA[<p>微信 ClawBot 插件的意义，不是“又支持了一个平台”。</p>
+<p>真正的变化是：<strong>AI 助手从“你要主动去打开的工具”，变成“你正在聊天时就能顺手调用的能力”。</strong></p>
+<p>这个变化看起来小，但会直接改变使用频率、任务颗粒度和协作习惯。</p>
+<h2 id="我观察到的三个变化"><a href="#我观察到的三个变化" class="headerlink" title="我观察到的三个变化"></a>我观察到的三个变化</h2><h3 id="1）触发成本下降：任务开始得更早"><a href="#1）触发成本下降：任务开始得更早" class="headerlink" title="1）触发成本下降：任务开始得更早"></a>1）触发成本下降：任务开始得更早</h3><p>以前很多事会卡在第一步：</p>
+<ul>
+<li>要不要开终端？</li>
+<li>要不要切到另一个 App？</li>
+<li>这个任务值不值得专门开一次？</li>
+</ul>
+<p>接入微信后，这些犹豫基本没了。想到就发一句话。<br>结果是：很多过去“懒得做”的小任务，现在在 30 秒内就启动了。</p>
+<h3 id="2）任务颗粒度变细：从“大任务”变成“连续微动作”"><a href="#2）任务颗粒度变细：从“大任务”变成“连续微动作”" class="headerlink" title="2）任务颗粒度变细：从“大任务”变成“连续微动作”"></a>2）任务颗粒度变细：从“大任务”变成“连续微动作”</h3><p>当触发足够便宜，人会自然把任务拆小：</p>
+<ul>
+<li>先让它查资料</li>
+<li>再让它压缩成要点</li>
+<li>然后改成可发出的版本</li>
+</ul>
+<p>这比一次性下大指令更稳定。<br>因为每一步都能即时校正，错误不会滚大。</p>
+<h3 id="3）上下文更连续：协作回到对话流里"><a href="#3）上下文更连续：协作回到对话流里" class="headerlink" title="3）上下文更连续：协作回到对话流里"></a>3）上下文更连续：协作回到对话流里</h3><p>过去常见断点是“人还在聊天，AI 在另一个界面”。<br>现在很多任务直接在当前会话延续，语义链不断，来回解释的成本下降。</p>
+<p>简单说：<strong>不是 AI 变聪明了，而是人与 AI 的衔接摩擦变小了。</strong></p>
+<h2 id="这不等于“已经完美”"><a href="#这不等于“已经完美”" class="headerlink" title="这不等于“已经完美”"></a>这不等于“已经完美”</h2><p>现在也有边界，而且很现实：</p>
+<ul>
+<li>插件处于逐步放量，未必每个账号立即可用。</li>
+<li>当前价值主要在“消息触发”，不等于放开微信内任意自动化。</li>
+<li>群场景和复杂编排能力仍受策略限制。</li>
+</ul>
+<p>所以更准确的说法是：这是一次“入口升级”，不是“能力终局”。</p>
+<h2 id="为什么这一步关键"><a href="#为什么这一步关键" class="headerlink" title="为什么这一步关键"></a>为什么这一步关键</h2><p>一个工具是否会被高频使用，通常不取决于它“最强时有多强”，而取决于它“最常见场景下有多顺手”。</p>
+<p>微信就是高频场景。<br>当 OpenClaw 能无缝进入这个场景，它就从“额外能力”变成“默认选项”。</p>
+<p>默认选项一旦形成，后面的功能迭代才真正有复利。</p>
+<h2 id="接下来最该盯的三件事"><a href="#接下来最该盯的三件事" class="headerlink" title="接下来最该盯的三件事"></a>接下来最该盯的三件事</h2><ul>
+<li><strong>稳定性</strong>：消息到达、任务执行、结果返回的一致性</li>
+<li><strong>响应速度</strong>：从发送到可读反馈的等待时长</li>
+<li><strong>打扰边界</strong>：提醒、通知、自动执行的可控程度</li>
+</ul>
+<p>这三件事决定它是“偶尔好用”，还是“长期可靠”。</p>
+<h2 id="参考来源"><a href="#参考来源" class="headerlink" title="参考来源"></a>参考来源</h2><ul>
+<li>OpenClaw 官方文档：<a href="https://docs.openclaw.ai/">https://docs.openclaw.ai</a></li>
+<li>OpenClaw GitHub 仓库：<a href="https://github.com/openclaw/openclaw">https://github.com/openclaw/openclaw</a></li>
+<li>微信通道安装器 npm 包：<a href="https://www.npmjs.com/package/@tencent-weixin/openclaw-weixin-cli">https://www.npmjs.com/package/@tencent-weixin/openclaw-weixin-cli</a></li>
+<li>公开发布信息线索：<a href="https://news.qq.com/rain/a/20260322A054HE00">https://news.qq.com/rain/a/20260322A054HE00</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>AI协作</category>
+      </categories>
+      <tags>
+        <tag>OpenClaw</tag>
+        <tag>微信</tag>
+        <tag>AI助手</tag>
+        <tag>工作流</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>来自obsidian</title>
+    <url>/2025/01/03/f47dcaef4e4c/</url>
+    <content><![CDATA[<p>测试编辑属性</p>
+<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/02/19/15-21-16-af02561c34091eba6f49fe4b436e434c-DSC_0510_1-32f296.JPG?sign=dnH9aONn7KKuXcoBsZ38cDwrS-lJVCXwtUKKZZTXoYg=:0" alt="DSC_0510_1.JPG"></p>
+]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
+      <tags>
+        <tag>Obsidian</tag>
+        <tag>博客同步</tag>
       </tags>
   </entry>
   <entry>
@@ -165,26 +220,6 @@
   </entry>
   <entry>
     <title>近期投资心得</title>
-    <url>/2025/09/20/e39e516c27bc/</url>
-    <content><![CDATA[<p>最近两次在低点被洗出，场景非常相似，所以特意写一篇做反思。</p>
-<p>首先是蓝思科技，曾持有1400股头寸，但在除权日前一天在低点竟抛售。随后第二天剧烈上涨，如果没有卖出，则不超过18小时就能抹平所有亏损。</p>
-<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/09/20/11-36-14-0e158687fc63f3c08443c136792d963a-b275f3.png?sign=GQCxlKUn9uqjTJ8eePI-4S8ff0sAgeuC6Uj-Tmb1M4E=:0"></p>
-<p>另一次是小米，一觉醒来看到消息说找回1/3的小米SU7标准版，以为是遭遇了黑天鹅，火速卖出。但不久发现其实只是OTA升级，或者管理层用OTA升级盖过了问题召回的消息，总之不是黑天鹅，而是最该买入的点位，我反之选择了卖出。</p>
-<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/09/20/11-42-37-e70a92a42cd5daac6147d886243d1462-8c94ba.png?sign=mwbSs8RVJApqHOQbYDripPRVFpfU80zSxTcI0X9s4ms=:0"></p>
-<p>回顾来看，当时的思路主要是止损。但对于蓝思科技而言，基本面很好，前两年处于低估阶段，近来不仅守住消费电子的订单，还在扩大国产电动汽车玻璃的订单，护城河很稳。很难回撤太多。</p>
-<p>至于小米，主要是对信息的鉴别没有很清醒，反而急于止损，没有意识到是媒体营造的假消息。</p>
-]]></content>
-      <categories>
-        <category>投资</category>
-      </categories>
-      <tags>
-        <tag>投资</tag>
-        <tag>交易复盘</tag>
-        <tag>风险管理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>近期投资心得</title>
     <url>/2025/07/10/9f87d18c3df6/</url>
     <content><![CDATA[<p>本科的时候选修了金融学，虽然没认真学太多知识，但至少给了我去尝试交易的勇气。</p>
 <p>从前年开始持有过小额小米的股票，等到小米SU7发布之后，惊讶的发现这是真能赚到，那次清仓之后盈利了一万多。从此开始了更大胆的尝试。</p>
@@ -203,6 +238,26 @@
       <tags>
         <tag>投资</tag>
         <tag>交易复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>近期投资心得</title>
+    <url>/2025/09/20/e39e516c27bc/</url>
+    <content><![CDATA[<p>最近两次在低点被洗出，场景非常相似，所以特意写一篇做反思。</p>
+<p>首先是蓝思科技，曾持有1400股头寸，但在除权日前一天在低点竟抛售。随后第二天剧烈上涨，如果没有卖出，则不超过18小时就能抹平所有亏损。</p>
+<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/09/20/11-36-14-0e158687fc63f3c08443c136792d963a-b275f3.png?sign=GQCxlKUn9uqjTJ8eePI-4S8ff0sAgeuC6Uj-Tmb1M4E=:0"></p>
+<p>另一次是小米，一觉醒来看到消息说找回1/3的小米SU7标准版，以为是遭遇了黑天鹅，火速卖出。但不久发现其实只是OTA升级，或者管理层用OTA升级盖过了问题召回的消息，总之不是黑天鹅，而是最该买入的点位，我反之选择了卖出。</p>
+<p><img src="https://downloads.nps.goomo.top/d/Share/Pic/2025/09/20/11-42-37-e70a92a42cd5daac6147d886243d1462-8c94ba.png?sign=mwbSs8RVJApqHOQbYDripPRVFpfU80zSxTcI0X9s4ms=:0"></p>
+<p>回顾来看，当时的思路主要是止损。但对于蓝思科技而言，基本面很好，前两年处于低估阶段，近来不仅守住消费电子的订单，还在扩大国产电动汽车玻璃的订单，护城河很稳。很难回撤太多。</p>
+<p>至于小米，主要是对信息的鉴别没有很清醒，反而急于止损，没有意识到是媒体营造的假消息。</p>
+]]></content>
+      <categories>
+        <category>投资</category>
+      </categories>
+      <tags>
+        <tag>投资</tag>
+        <tag>交易复盘</tag>
+        <tag>风险管理</tag>
       </tags>
   </entry>
   <entry>
